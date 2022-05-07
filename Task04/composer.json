@@ -1,0 +1,18 @@
+{
+  "name": "FunGvey/task04",
+  "autoload": {
+      "psr-4": {
+          "FunGvey\\Task04\\": "src/"
+      },
+      "files": [
+          "src/Test.php", 
+          "src/checkIfBalanced.php"
+      ]
+  },
+  "authors": [
+      {
+          "name": "Demidov-Vladimir"
+      }
+  ],
+  "require": {}
+}
