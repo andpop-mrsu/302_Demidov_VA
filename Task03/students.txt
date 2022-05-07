@@ -1,0 +1,5 @@
+1 Ivan Ivanov ФМиИТ 4 2
+2 Vladimir Demidov ФМиИТ 3 1
+3 Dima Zavodov ФМиИТ 3 1
+4 Nikita Bochkov ФМиИТ 2 1
+5 Nikita Zaharov ФМиИТ 1 2
