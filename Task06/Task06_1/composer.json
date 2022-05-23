@@ -1,0 +1,20 @@
+{
+  "name": "demidovva/task06_1",
+  "autoload": {
+      "psr-4": {
+          "Demidovva\\Task06_1\\": [ 
+              "src/",
+              "tests/Unit/"
+          ]
+      },
+      "files": [ "src/Test.php" ]
+  },
+  "authors": [
+      {
+          "name": "Demidovva"
+      }
+  ],
+  "require": {
+      "phpunit/phpunit": "^9.5"
+  }
+}
